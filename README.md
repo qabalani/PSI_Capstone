@@ -71,4 +71,4 @@ capstone_project/
 
 ## License
 
-Qusai Faraj 
+Add the project license and copyright information here
